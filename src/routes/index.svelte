@@ -1,6 +1,7 @@
 
 <script>
 	import { page } from '$app/stores';
+	import { base } from '$app/paths';
 	import { mainNav, sidebarOpen } from '$lib/stores/store';
 	import { titlecase } from '$lib/stores/filters';
 
