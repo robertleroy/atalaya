@@ -10,7 +10,6 @@ lorem
 ```
 
 <!-- - [One]('./#one') -->
-[an intneral link #two](/postCss/imports#two)
 
 ### One
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus dolorem quia quis suscipit aspernatur laudantium assumenda fugit blanditiis soluta, nostrum nulla a vero similique, optio repudiandae! Illum eveniet quia, reiciendis modi animi eligendi quis facilis officiis. Eaque hic amet rerum? Perspiciatis dolores voluptatem debitis molestiae quis est laborum, rerum eum! Obcaecati eum nisi quaerat corrupti quisquam. Cupiditate, at, aperiam id quisquam nobis aut commodi nulla inventore ducimus debitis eos tenetur dignissimos quia neque sed animi quod mollitia reprehenderit quidem nihil iste. Quo voluptatem voluptatibus nostrum suscipit perspiciatis nihil labore cum magnam pariatur id! Atque consectetur expedita voluptate eius eveniet.  

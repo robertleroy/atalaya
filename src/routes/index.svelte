@@ -12,12 +12,12 @@
 <aside class="side-bar" class:sidebarOpen={$sidebarOpen}>
   <nav class="side-nav">
     <h4 class="sidesidenav-header" class:active={$mainNav.url === $page.url.pathname}>
-      <a href="{ base }/">Atalaya</a>
+      <a href="{base}/">Atalaya</a>
     </h4>
 
     {#each $mainNav.routes as {name, url}}
     <div class="sidenav-item" on:click={closeSidebar}>
-      <a href={ base }{url}>{titlecase(name)}</a>
+      <a href='{base}{url}'>{titlecase(name)}</a>
     </div>
     {/each}
   </nav>
@@ -30,7 +30,7 @@
     <h2>Atalaya</h2>
 
     <p>
-      <img src="talaya.png" alt="talaya" id="image">
+      <img src="{base}talaya.png" alt="talaya" id="image">
     </p>
 
     <section class="reference">
