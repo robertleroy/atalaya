@@ -15,7 +15,7 @@ const config = {
 			default: true
 		},
     paths: {
-			base: dev ? '' : '/ghtest',
+			base: dev ? '' : '/atalaya',
 		},
   },
 
