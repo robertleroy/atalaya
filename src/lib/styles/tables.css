@@ -1,0 +1,17 @@
+/* @import '$lib/styles/table'; */
+
+/* #region table */
+:where(table) {
+  border-collapse: collapse;
+  border-color: currentColor;
+  text-indent: 0;
+}
+:where(th) {
+  color: inherit;
+	font-weight: bolder;
+}
+:where(td) {
+  padding: 0 1ch;
+  
+}
+/* #endregion table */
